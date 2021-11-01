@@ -1,6 +1,5 @@
 
 # Assignment 4:
-- - - -
 
 # Author:
  Shihab Islam (github.com/ShihabIslam789)

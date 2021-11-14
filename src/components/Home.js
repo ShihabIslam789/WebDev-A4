@@ -7,7 +7,7 @@ class Home extends Component {
     return (
       <div id="home">
         <img
-          src="http://wp.widewallpapers.net/4k/money/2560x1440/money-2560x1440-003.jpg"
+          src="https://c4.wallpaperflare.com/wallpaper/905/666/494/background-render-fon-bitcoin-bitcoin-hd-wallpaper-preview.jpg"
           alt="bank"
         />
         <div id="container">

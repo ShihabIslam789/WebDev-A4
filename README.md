@@ -12,4 +12,7 @@ Add client-side routing to our React apps using React Router <br>
 Set up React Router to enable common browser behavior <br>
 Understand built in React Router components (Route, Router, Switch, Link, Redirect) <br>
 
+ To start:
+ npm start
+ 
 </p>
